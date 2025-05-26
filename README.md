@@ -107,7 +107,6 @@ The file keeps growing during runtime and can be parsed offline for statistics o
 
 ## 🤝 Contributing
 Small project, big welcomes! Open an issue for proposals, or fork and submit a pull-request.  
-Please follow **PEP-8 + black (line-length 88)**.
 
 > Enjoy building smarter SCARA pickers!
 
