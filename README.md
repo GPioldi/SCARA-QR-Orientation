@@ -1,6 +1,5 @@
 # SCARA QR Orientation
 *Real-time orientation tracking of a QR code mounted on a SCARA robot gripper*  
-Author | [GPioldi](https://github.com/GPioldi)
 
 ![Detection –42°](docs/images/demo_detection_-42deg.png)
 
@@ -39,8 +38,7 @@ Author | [GPioldi](https://github.com/GPioldi)
 ```
 scara-qr-orientation/
 ├── README.md
-├── LICENSE                 # MIT (or your choice)
-├── .gitignore
+├── LICENSE                 # MIT
 ├── requirements.txt
 ├── src/
 │   └── detector.py         # ← QR - orientation detector (renamed)
@@ -111,11 +109,10 @@ The file keeps growing during runtime and can be parsed offline for statistics o
 Small project, big welcomes! Open an issue for proposals, or fork and submit a pull-request.  
 Please follow **PEP-8 + black (line-length 88)**.
 
+> Enjoy building smarter SCARA pickers!
+
 ---
 
 ## 📝 License
 Released under the **MIT License** – see `LICENSE` for full text.
 
----
-
-> Made with ☕ and OpenCV – enjoy building smarter SCARA pickers!
